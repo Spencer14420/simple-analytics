@@ -1,5 +1,5 @@
 const logView = async () => {
-  const php = ""; //php.log location
+  const php = ""; //log.php location
 
   try {
     await fetch(php, {
